@@ -1,0 +1,30 @@
+[
+  {
+    "id": "40edb34f-e7cf-43b2-9a71-b344f9cef10e",
+    "name": "Steven ",
+    "email": "tiki@email.com",
+    "password": "$2a$10$0LlNQUMwWWVk35YWtrPReeUdK5dM.oOwdsmFyP2LwIxAIRpwWPYpi",
+    "role": "CONDUCTOR"
+  },
+  {
+    "id": "75f1886d-6ed9-47e9-99f9-99adcdc1a8ca",
+    "name": "Eduardo",
+    "email": "edu@email.com",
+    "password": "$2a$10$8X6Wbw40VML4eqMfyqo.zeqz0faChYJRCyyp7dezm2jaIz3PSCSt.",
+    "role": "USUARIO"
+  },
+  {
+    "id": "9214f263-fb2b-41a0-b772-90cb553047d4",
+    "name": "Josue",
+    "email": "abyss@email.com",
+    "password": "$2a$10$bYmJbNedvmVcoKqOgDdnTeWul1J8J7Dhu.uiQDe9udL/apmv0zbCa",
+    "role": "USUARIO"
+  },
+  {
+    "id": "828d9efa-6fc4-49c5-a8dd-eb98ea5ef8ae",
+    "name": "Lupe",
+    "email": "pup@email.com",
+    "password": "$2a$10$5vazr0ML1I1FVuHXC2Hl2OVJdO7nHFwde2THpcEPeMrC4Bn8x0dWO",
+    "role": "CONDUCTOR"
+  }
+]
