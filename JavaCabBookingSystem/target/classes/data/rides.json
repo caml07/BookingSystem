@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ea3a0ba3-accc-450a-b207-0f056c4e5373",
+    "clienteId": "135533e2-7c72-47bd-8fe8-78ab83126b5c",
+    "conductorId": "95fb4b37-f7fc-4b8a-b8db-56036bdf6ff7",
+    "origen": "X:122,Y:130",
+    "destino": "X:386,Y:228",
+    "precio": 12.04006392016436,
+    "estado": "PENDIENTE"
+  }
+]

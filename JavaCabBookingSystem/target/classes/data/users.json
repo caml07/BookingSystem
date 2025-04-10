@@ -1,0 +1,23 @@
+[
+  {
+    "id": "admin-id",
+    "name": "Administrador",
+    "email": "admin@example.com",
+    "password": "$2a$10$Ba6ObfmwMR5XV4ngRyuvlu98QnpGY8eslLP1rLLJAearbW2jSlZTC",
+    "role": "ADMIN"
+  },
+  {
+    "id": "95fb4b37-f7fc-4b8a-b8db-56036bdf6ff7",
+    "name": "Steven",
+    "email": "steven@email.com",
+    "password": "$2a$10$v8OL4tddFLgDq5BsmF1qEOyOkrIow5K0KOevZz4Y2SenM/ey4BTXy",
+    "role": "CONDUCTOR"
+  },
+  {
+    "id": "135533e2-7c72-47bd-8fe8-78ab83126b5c",
+    "name": "Eduardo",
+    "email": "edu@email.com",
+    "password": "$2a$10$L1xa2areDJJmMhXaJ.yBY.Vkw8MoqxhqLR1Qq2smJm7nHUs1/2ioe",
+    "role": "USUARIO"
+  }
+]
